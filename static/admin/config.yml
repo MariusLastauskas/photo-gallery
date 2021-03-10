@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: MariusLastauskas/photo-gallery
 
 media_folder: static/assets
 public_folder: /assets
